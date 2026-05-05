@@ -33,8 +33,8 @@ zmvm-movilidad-tesis/
 ├── estadistica_social/
 ├── investigacion_metropolitana/
 ├── integracion/
-├── data_raw/        # datos originales
-├── utils/           # funciones reutilizables
+├── data_raw/          # datos originales
+├── utils/             # funciones reutilizables
 └── README.md
 
 ## Datos
