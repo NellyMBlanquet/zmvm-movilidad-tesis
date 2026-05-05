@@ -27,6 +27,7 @@ en tiempos de traslado y acceso a recursos de movilidad.
 
 ## Estructura del repositorio
 
+```text
 zmvm-movilidad-tesis/
 ├── economia_urbana/
 ├── sociologia_urbana/
